@@ -10,7 +10,7 @@ I'm a student of University of information Technology, specialization in Softwar
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhthuong031103&show_icons=true&locale=en&layout=compact" alt="minhthuong031103" /></p>
 
-<p>&nbsp;
+<p>;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhthuong031103&show_icons=true&locale=en" alt="minhthuong031103" />
 </p>
 
