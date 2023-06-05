@@ -10,18 +10,11 @@ I'm a student of University of information Technology, specialization in Softwar
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhthuong031103&show_icons=true&locale=en&layout=compact" alt="minhthuong031103" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhthuong031103&show_icons=true&locale=en" alt="minhthuong031103" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhthuong031103&show_icons=true&locale=en" alt="minhthuong031103" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhthuong031103&" alt="minhthuong031103" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=minhthuong031103&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 
-
-
-### ✍️ My Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=minhthuong031103&icon=5&color=0)](https://visitcount.itsvg.in)
 
