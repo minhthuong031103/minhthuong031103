@@ -11,7 +11,7 @@ I'm a student of University of information Technology, specialization in Softwar
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhthuong031103&show_icons=true&locale=en&layout=compact" alt="minhthuong031103" /></p>
 
 <p>;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=minhthuong031103&show_icons=true&locale=en" alt="minhthuong031103" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhthuong031103&show_icons=true&locale=en" alt="minhthuong031103" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhthuong031103&" alt="minhthuong031103" /></p>
