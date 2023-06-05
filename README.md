@@ -11,7 +11,7 @@ I'm a student of University of information Technology, specialization in Softwar
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=minhthuong031103&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ My Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 
