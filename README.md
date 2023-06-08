@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student of University of information Technology, specialization in Software<br>Engineering. My goal is to become a full-stack developer 
+I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
 <div align="center">
   
   
