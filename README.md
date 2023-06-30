@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
-22/6/2023: Done Transformer, God father will learn Operating System in today
+Im trying very very harddd for my work and final exam
 <div align="center">
   
   
