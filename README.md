@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
 Im trying very very harddd for my work and final exam
-2/7/2023: 5 days left for exams. I CAN DO ITTTTTTTTTTTT
+2/7/2023: 2 days left for exams. I CAN DO ITTTTTTTTTTTT
 <div align="center">
   
   
