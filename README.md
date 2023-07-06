@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
 Im trying very very harddd for my work and final exam
-2/7/2023: 2 days left for exams. I CAN DO ITTTTTTTTTTTT
+2/7/2023: 1 days left for exams. I CAN DO ITTTTTTTTTTTT
 <div align="center">
   
   
@@ -31,6 +31,7 @@ Im trying very very harddd for my work and final exam
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
