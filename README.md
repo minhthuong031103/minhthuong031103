@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
 
-9/7/2023: 1 day before work
+
 <div align="center">
   
   
