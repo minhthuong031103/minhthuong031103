@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
- Resting dayyy
+ Resting day
 
 <div align="center">
   
