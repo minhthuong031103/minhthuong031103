@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
- I can work both on Web and Mobile development
+ I can work both on Web and Mobile development.
 
 <div align="center">
   
