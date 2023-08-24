@@ -87,17 +87,17 @@ I'm a student of University of information Technology, specialization in Softwar
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhthuong031103&" alt="minhthuong031103" /></p>
-### Latest blog articles
+###Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Master NextJS 13 Data Fetching with this Step-by-Step Guide](https://livecode247.com/demystifying-data-fetching-in-nextjs-13)
-- [Try using this authentication method in your next NextJS project!! &lpar;Hint: Magic Links&rpar;](https://livecode247.com/try-using-this-authentication-method-in-your-next-nextjs-project-hint-magic-links)
-- [Boost Your Neovim Experience with These Essential Plugins](https://livecode247.com/boost-your-neovim-experience-with-these-essential-plugins)
-- [Typewind: The magic of Tailwind combined with the safety of Typescript](https://livecode247.com/typewind-the-magic-of-tailwind-combined-with-the-safety-of-typescript)
-- [Dev Retro 2022, A Flashback to my life as a developer this past year](https://livecode247.com/dev-retro-2022-a-flashback-to-my-life-as-a-developer-this-past-year)
+- [NestJS, WebSocketGateway và SocketIO](https://minhthuong-portfolio.vercel.app/blogs/16)
+- [NextJS, Redux](https://minhthuong-portfolio.vercel.app/blogs/13)
+- [NestJS-MySQL Type ORM](https://minhthuong-portfolio.vercel.app/blogs/15)
+- [NextJS và Graphql với Apollo Client](https://minhthuong-portfolio.vercel.app/blogs/14)
+- [Tìm hiểu về cơ chế của Server Side Rendering và Client Side Rendering](https://minhthuong-portfolio.vercel.app/blogs/3)
 <!-- BLOG-POST-LIST:END -->
 
-> [...more articles](https://livecode247.com)
+> [...more articles](https://minhthuong-portfolio.vercel.app/blogs)
 
 
 
