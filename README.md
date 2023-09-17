@@ -27,6 +27,10 @@ I'm a student of University of information Technology, specialization in Softwar
   <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
   <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" alt="ReduxSaga" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+ <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+ <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://blog.kakaocdn.net/dn/bJnCEB/btrwJwIaH3z/K0E3JkariSbVpxDywoWw11/img.png" alt="Mui" height="50" /></a>
+  <a href="https://v4.mui.com/static/logo.png" target="_blank"><img style="margin: 10px" src="https://v4.mui.com/static/logo.png" alt="Styled Component" height="50" /></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="Shadcn" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin
 : 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
