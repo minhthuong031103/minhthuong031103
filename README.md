@@ -26,7 +26,6 @@ I'm a student of University of information Technology, specialization in Softwar
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
   <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
   <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" alt="ReduxSaga" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
  <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://blog.kakaocdn.net/dn/bJnCEB/btrwJwIaH3z/K0E3JkariSbVpxDywoWw11/img.png" alt="Mui" height="50" /></a>
   <a href="https://v4.mui.com/static/logo.png" target="_blank"><img style="margin: 10px" src="https://v4.mui.com/static/logo.png" alt="Styled Component" height="50" /></a>
