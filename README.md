@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
- I can work both on Web and Mobile development.
+ I can work both on Web and Mobile development with all Tech stack.
 
 <div align="center">
   
@@ -85,6 +85,8 @@ I'm a student of University of information Technology, specialization in Softwar
   <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="50" /></a> 
    <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/96fadc4f6ccca848d64e16e77c017f7f74e11d44.png" alt="Heroku" height="50" /></a>  
   <a href="https://aws.amazon.com/vi/s3/" target="_blank"><img style="margin: 10px" src="https://hiepsharing.com/wp-content/uploads/2023/04/Amazon-S3.png" alt="AWS S3" height="50" /></a>  
+ <a href="https://aws.amazon.com/vi/lambda/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UTObUaqG--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/t2hguz5nsow823gcuix6.png" alt="AWS lamda" height="50" /></a>  
+ <a href="https://www.apollographql.com/docs/react/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo" height="50" /></a>  
 </div>
 
 
