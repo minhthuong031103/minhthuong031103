@@ -30,6 +30,7 @@ I'm a student of University of information Technology, specialization in Softwar
  <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://blog.kakaocdn.net/dn/bJnCEB/btrwJwIaH3z/K0E3JkariSbVpxDywoWw11/img.png" alt="Mui" height="50" /></a>
   <a href="https://v4.mui.com/static/logo.png" target="_blank"><img style="margin: 10px" src="https://v4.mui.com/static/logo.png" alt="Styled Component" height="50" /></a>
   <a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="Shadcn" height="50" /></a>
+  <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="Ant design" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin
 : 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -78,7 +79,14 @@ I'm a student of University of information Technology, specialization in Softwar
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="Git" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+ <a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/42682871?s=200&v=4" alt="Vercel" height="50" /></a>  
+  <a href="https://railway.app/" target="_blank"><img style="margin: 10px" src="https://railway.app/brand/logo-dark.svg" alt="Railway" height="50" /></a>  
+  <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" height="50" /></a>  
+  <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="50" /></a> 
+   <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/96fadc4f6ccca848d64e16e77c017f7f74e11d44.png" alt="Heroku" height="50" /></a>  
+  <a href="https://aws.amazon.com/vi/s3/" target="_blank"><img style="margin: 10px" src="https://hiepsharing.com/wp-content/uploads/2023/04/Amazon-S3.png" alt="AWS S3" height="50" /></a>  
 </div>
+
 
 </td></tr></table>  
 
