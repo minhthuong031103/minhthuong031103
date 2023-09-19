@@ -86,6 +86,7 @@ I'm a student of University of information Technology, specialization in Softwar
    <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/96fadc4f6ccca848d64e16e77c017f7f74e11d44.png" alt="Heroku" height="50" /></a>  
   <a href="https://aws.amazon.com/vi/s3/" target="_blank"><img style="margin: 10px" src="https://hiepsharing.com/wp-content/uploads/2023/04/Amazon-S3.png" alt="AWS S3" height="50" /></a>  
  <a href="https://aws.amazon.com/vi/lambda/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UTObUaqG--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/t2hguz5nsow823gcuix6.png" alt="AWS lamda" height="50" /></a>  
+  <a href="https://aws.amazon.com/vi/amplify/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1114309924551417856/FKA4cm2x_400x400.png" alt="AWS amplify" height="50" /></a>  
  <a href="https://www.apollographql.com/docs/react/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo" height="50" /></a>  
 </div>
 
