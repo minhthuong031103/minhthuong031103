@@ -88,6 +88,7 @@ I'm a student of University of information Technology, specialization in Softwar
  <a href="https://aws.amazon.com/vi/lambda/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UTObUaqG--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/t2hguz5nsow823gcuix6.png" alt="AWS lamda" height="50" /></a>  
   <a href="https://aws.amazon.com/vi/amplify/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1114309924551417856/FKA4cm2x_400x400.png" alt="AWS amplify" height="50" /></a>  
  <a href="https://www.apollographql.com/docs/react/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo" height="50" /></a>  
+  <a href="https://console.neon.tech/app/projects" target="_blank"><img style="margin: 10px" src="https://neon.tech/favicon/favicon.png" alt="Neon" height="50" /></a>  
 </div>
 
 
