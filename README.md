@@ -1,11 +1,20 @@
 # 💫 About Me:
-I'm a student of University of information Technology, specialization in Software<br>Engineering. I am a full-stack developer
- I can work both on Web and Mobile development with all Tech stack.
 
-I have experience in ReactJS, React Native, NextJS, in the front end using UI Component library like TailwindCSS, Styled Component, Shadcn, Ant Design, MUI...
-In the back-end, I am capable of creating APIs, GraphQL, SocketGateway with NodeJS framework NestJS, ExpressJS
-I am familiar with various SQL, NoSql combined with ORM Library( Prisma, TypeORM ) and serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...
-Besides, I have knowledge in DevOps with Linux, Git, Docker, Google Cloud, serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda... and Cloud Computing With AWS ( EC2, RDS, S3) 
+- 👨‍💻 I'm a student of **University of information Technology**, specialization in **Software Engineering** (2021-2025).
+  
+- 👓  I am a **Full-stack developer**, I can work both on **Web and Mobile development with all Tech stack**.
+ 
+- 🌱 I have experience in **ReactJS, React Native, NextJS** in the front end using UI Component library : **TailwindCSS, Styled Component, Shadcn, Ant Design, MUI...**
+  
+- 👀 In the back-end, I am capable of creating **APIs, GraphQL, SocketGateway** with **NodeJS framework NestJS, ExpressJS** 
+
+- ⚡ I am familiar with various **SQL, NoSql** combined with **ORM Library( Prisma, TypeORM )** and **serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...**
+
+- 🔥 Besides, I have knowledge in **DevOps** with **Linux, Git, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda...** and **Cloud Computing With AWS ( EC2, RDS, S3)**
+
+- 📫 How to reach me **minhthuong03112003@gmail.com**
+
+
 
 
 <div align="center">
