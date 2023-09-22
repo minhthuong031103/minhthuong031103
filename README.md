@@ -48,11 +48,11 @@
   <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="Ant design" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin
 : 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://tanstack.com/query/v3/" target="_blank"><img style="margin: 10px" src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" alt="React" height="50" /></a>  
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
