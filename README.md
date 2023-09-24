@@ -102,7 +102,7 @@
   <a href="https://aws.amazon.com/vi/s3/" target="_blank"><img style="margin: 10px" src="https://hiepsharing.com/wp-content/uploads/2023/04/Amazon-S3.png" alt="AWS S3" height="50" /></a>  
  <a href="https://aws.amazon.com/vi/lambda/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/43451191/62449f80-e428-11e9-9244-b860f70d9fc5" alt="AWS lamda" height="50" /></a>  
   <a href="https://aws.amazon.com/vi/amplify/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1114309924551417856/FKA4cm2x_400x400.png" alt="AWS amplify" height="50" /></a> 
-    <a href="https://aws.amazon.com/vi/ecr/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:271/1*u7N4KAoe4tDMzs0GEdN1FA.pngg" alt="ECR" height="50" /></a>  
+    <a href="https://aws.amazon.com/vi/ecr/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:271/1*u7N4KAoe4tDMzs0GEdN1FA.png" alt="ECR" height="50" /></a>  
  <a href="https://www.apollographql.com/docs/react/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo" height="50" /></a>  
 
 </div>
