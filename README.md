@@ -12,7 +12,7 @@
 
 - 🔥 Besides, I have knowledge in **DevOps** with **Linux, Git, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda...** and **Cloud Computing With AWS ( EC2, RDS, S3)**
 
-- 📫 How to reach me **minhthuong03112003@gmail.com**
+- 📫 How to reach me **minhthuong03112003@gmail.com**.
 
 
 
