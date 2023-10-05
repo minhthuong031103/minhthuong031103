@@ -30,7 +30,37 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
+"terminal.integrated.fontSize": 17,
+  "workbench.colorCustomizations": {
+    "terminal.foreground": "#d3e742"
+  },
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.bracketPairColorization.enabled": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "prettier.insertPragma": false,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#2db300"
+  },
+  "prettier.singleQuote": true,
+  "prettier.proseWrap": "never",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "window.zoomLevel": -2,
+  "workbench.iconTheme": "material-icon-theme",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.advanced": {},
+  "terminal.integrated.env.windows": {},
 
 
 ### Frontend  
