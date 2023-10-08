@@ -81,6 +81,7 @@
  <a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeOrm" height="50" /></a>
    <a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" alt="Sequelize" height="50" /></a>
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+    <a href="https://trpc.io" target="_blank"><img style="margin: 10px" src="https://trpc.io/img/logo.svg" alt="tRPC" height="50" /></a>  
   <a  href="https://socket.io" target="_blank"><img  style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" height="50"/></a>
 
 </div>
