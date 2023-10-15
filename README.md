@@ -105,7 +105,7 @@
  <a href="https://aws.amazon.com/vi/lambda/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/43451191/62449f80-e428-11e9-9244-b860f70d9fc5" alt="AWS lamda" height="50" /></a>  
   <a href="https://aws.amazon.com/vi/amplify/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1114309924551417856/FKA4cm2x_400x400.png" alt="AWS amplify" height="50" /></a> 
     <a href="https://aws.amazon.com/vi/ecr/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:271/1*u7N4KAoe4tDMzs0GEdN1FA.png" alt="ECR" height="50" /></a> 
-   <a href="https://nginx.org/en/" target="_blank"><img style="margin: 10px" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/326375151_730475521783964_2884049728272043341_n.png?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=72d8eOQdw9kAX_1hZN8&_nc_ht=scontent.fsgn19-1.fna&oh=00_AfCsrnjVZFIs__Y3vgSOElNQ43UKNruYSwMKtLIUloHdLQ&oe=65166BEA" alt="Nginx" height="50" /></a>  
+   <a href="https://nginx.org/en/" target="_blank"><img style="margin: 10px" src="https://assets.cstatic.io/img/tech/nginx-3.png" alt="Nginx" height="50" /></a>  
  <a href="https://www.apollographql.com/docs/react/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo" height="50" /></a>  
 
 </div>
