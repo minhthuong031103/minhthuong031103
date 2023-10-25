@@ -136,6 +136,10 @@ what is the meaning of life...?
 <!-- BLOG-POST-LIST:END -->
 
 > [...more articles](https://minhthuong-portfolio.vercel.app/blogs)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/1066b8e2a8deca4d62895032cb21e542c8318f0d/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/1066b8e2a8deca4d62895032cb21e542c8318f0d/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/1066b8e2a8deca4d62895032cb21e542c8318f0d/github-contribution-grid-snake.svg">
+</picture>
 
 
