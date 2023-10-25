@@ -51,7 +51,7 @@ what is the meaning of life...?
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
   <a href="https://tanstack.com/query/v3/" target="_blank"><img style="margin: 10px" src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" alt="React" height="50" /></a>  
-    <a href="https://swr.vercel.app/fr-FR" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6b7mvu9P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vgncmlu98um8dw9ccrcb.jpg" alt="SWR" height="50" /></a>  
+    <a href="https://swr.vercel.app/fr-FR" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/be2e5a4cbf63a68bf0d3d0124613eed04f5d9aae22feb5d9c5e068ec77f446e2/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7a656e6e2d757365722d75706c6f61642f746f706963732f336237396333626132632e6a706567" alt="SWR" height="50" /></a>  
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 
 </div>
