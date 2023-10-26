@@ -4,13 +4,15 @@
   
 - 👓  I am a **Full-stack developer**, I can work both on **Web and Mobile development with all Tech stack**.
  
-- 🌱 I have experience in **ReactJS, React Native, NextJS** in the front end using UI Component library : **TailwindCSS, Styled Component, Shadcn, Ant Design, MUI...**
+- 🌱 I have experience in **ReactJS, React Native, NextJS** in the front end using UI Component library : **TailwindCSS, Styled Component, Shadcn, Ant Design, NextUI, MUI...** and data fetching skill with **SWR, React-query, Redux Saga, tRPC**
   
 - 👀 In the back-end, I am capable of creating **APIs, GraphQL, SocketGateway** with **NodeJS framework NestJS, ExpressJS** 
 
 - ⚡ I am familiar with various **SQL, NoSql** combined with **ORM Library( Prisma, TypeORM )** and **serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...**
 
-- 🔥 Besides, I have knowledge in **DevOps** with **Linux, Git, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda...** and **Cloud Computing With AWS ( EC2, RDS, S3)**
+- 🔥 Besides, I have knowledge in **DevOps** with **Linux (Ubuntu), Git, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda, Nginx...** and **Cloud Computing With AWS ( EC2, RDS, S3)**
+
+- 🔭 I'm learning about Block-chain development for job requirements with **Solidity, Web3js, Ethers.js, Wagmi...**
 
 - 📫 How to reach me **minhthuong03112003@gmail.com**.
 
