@@ -55,8 +55,7 @@ what is the meaning of life...?
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
    <a href="https://ethers.org/" target="_blank"><img style="margin: 10px" src="https://moralis.io/wp-content/uploads/2022/12/ethers.js-1024x708.png" alt="Ethers" height="50" /></a>  
      <a href="https://wagmi.sh/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1520407180322693120/uS6VdwoS_400x400.jpg" alt="Wagmi" height="50" /></a>  
-       <a href="https://thirdweb.com/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/SmD5gHkEKTIZqTrHpiGWodqwnzq9c3nfEW4yf35XIelks_lPq16a-R7UdPlhefgnDPeISSAuiA=s900-c-k-c0x00ffffff-no-rj
-" alt="Web3" height="50" /></a>  
+       <a href="https://thirdweb.com/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/SmD5gHkEKTIZqTrHpiGWodqwnzq9c3nfEW4yf35XIelks_lPq16a-R7UdPlhefgnDPeISSAuiA=s900-c-k-c0x00ffffff-no-rj" alt="Web3" height="50" /></a>  
 
 
 </div>
