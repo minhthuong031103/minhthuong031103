@@ -114,6 +114,7 @@
   <a href="https://aws.amazon.com/vi/amplify/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1114309924551417856/FKA4cm2x_400x400.png" alt="AWS amplify" height="50" /></a> 
     <a href="https://aws.amazon.com/vi/ecr/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:271/1*u7N4KAoe4tDMzs0GEdN1FA.png" alt="ECR" height="50" /></a> 
    <a href="https://nginx.org/en/" target="_blank"><img style="margin: 10px" src="https://assets.cstatic.io/img/tech/nginx-3.png" alt="Nginx" height="50" /></a>  
+     <a href="https://github.com/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github actions" height="50" /></a>  
  <a href="https://www.apollographql.com/docs/react/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo" height="50" /></a>  
 
 </div>
