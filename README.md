@@ -103,8 +103,7 @@
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-  <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/U/ubuntu-logo-A5C173CA34-seeklogo.com.png" height="50" /></a>  
-
+<a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/U/ubuntu-logo-A5C173CA34-seeklogo.com.png" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="Git" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
