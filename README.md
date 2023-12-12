@@ -1,4 +1,4 @@
-# [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=24)](#)
+# [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Hi%20I'm%20Minh%20Thuong%20!&fontSize=24)](#)
 
 # 💫 About Me:
 
