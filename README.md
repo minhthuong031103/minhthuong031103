@@ -129,10 +129,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhthuong031103&show_icons=true&locale=en&layout=compact" alt="minhthuong031103" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhthuong031103&show_icons=true&locale=en&layout=compact&theme=one_dark" alt="minhthuong031103" /></p>
 
 <p>;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhthuong031103&theme=one_dark_pro&show_icons=true" alt="minhthuong031103" />
+  <img align="center" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=minhthuong031103&theme=one_dark_pro&show_icons=true" alt="minhthuong031103" />
 </p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=minhthuong031103&theme=onedark" alt="minhthuong031103" /></p>
