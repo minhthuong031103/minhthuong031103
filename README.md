@@ -12,7 +12,7 @@
 
 - ⚡ I am familiar with various **SQL, NoSql** combined with **ORM Library( Prisma, TypeORM )** and **serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...**
 
-- 🔥 Besides, I have knowledge in **DevOps** with **Linux (Ubuntu), Git, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda, Nginx...** and **Cloud Computing With AWS ( EC2, RDS, S3)**
+- 🔥 Besides, I have knowledge in **DevOps** with **Linux (Ubuntu), Git, CI/CD, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda, Nginx...** and **Cloud Computing With AWS ( EC2, RDS, S3)**
 
 - 🔭 I'm learning about Block-chain development for job requirements with **Solidity, Web3js, Ethers.js, Wagmi...**
 
