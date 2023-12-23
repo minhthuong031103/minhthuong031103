@@ -8,7 +8,7 @@
  
 - 🌱 I have experience in **ReactJS, React Native, NextJS, Angular** in the front end using UI Component library : **TailwindCSS, Styled Component, Shadcn, Ant Design, NextUI, MUI...** and data fetching skill with **SWR, React-query, Redux Saga, tRPC**
   
-- 👀 In the back-end, I am capable of creating **APIs, GraphQL, SocketGateway** with **NodeJS framework NestJS, ExpressJS** 
+- 👀 In the back-end, I am capable of creating **APIs, GraphQL, Websocket** with **NodeJS framework NestJS, ExpressJS** 
 
 - ⚡ I am familiar with various **SQL, NoSql** combined with **ORM Library( Prisma, TypeORM )** and **serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...**
 
