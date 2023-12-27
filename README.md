@@ -10,7 +10,7 @@
   
 - 👀 In the back-end, I am capable of creating **APIs, GraphQL, Websocket** with **NodeJS framework NestJS, ExpressJS** 
 
-- ⚡ I am familiar with various **SQL, NoSql** combined with **ORM Library( Prisma, TypeORM )** and **serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...**
+- ⚡ I am familiar with various **SQL, NoSql** combined with **ORM Library( Prisma, TypeORM, Sequelize )** and **serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...**
 
 - 🔥 Besides, I have knowledge in **DevOps** with **Linux (Ubuntu), Git, CI/CD, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda, Nginx...** and **Cloud Computing With AWS ( EC2, RDS, S3)**
 
