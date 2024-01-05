@@ -154,5 +154,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake.svg">
 </picture>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tgul2h5zzk35xnmibcn3cgv3u4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tgul2h5zzk35xnmibcn3cgv3u4&redirect=true)
+<div align="center">  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tgul2h5zzk35xnmibcn3cgv3u4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+</div>
