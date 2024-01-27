@@ -47,13 +47,15 @@
  <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://blog.kakaocdn.net/dn/bJnCEB/btrwJwIaH3z/K0E3JkariSbVpxDywoWw11/img.png" alt="Mui" height="50" /></a>
   <a href="https://v4.mui.com/static/logo.png" target="_blank"><img style="margin: 10px" src="https://v4.mui.com/static/logo.png" alt="Styled Component" height="50" /></a>
   <a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="Shadcn" height="50" /></a>
+    <a href="https://nextui.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4" alt="Nextui" height="50" /></a>
+    <a href="https://mantine.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/79146003?v=4&s=400" alt="Mantine" height="50" /></a>
+
   <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="Ant design" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin
 : 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
   <a href="https://tanstack.com/query/v3/" target="_blank"><img style="margin: 10px" src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" alt="React" height="50" /></a>  
-    <a href="https://swr.vercel.app/fr-FR" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/be2e5a4cbf63a68bf0d3d0124613eed04f5d9aae22feb5d9c5e068ec77f446e2/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7a656e6e2d757365722d75706c6f61642f746f706963732f336237396333626132632e6a706567" alt="SWR" height="50" /></a>  
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
    <a href="https://ethers.org/" target="_blank"><img style="margin: 10px" src="https://moralis.io/wp-content/uploads/2022/12/ethers.js-1024x708.png" alt="Ethers" height="50" /></a>  
      <a href="https://wagmi.sh/" target="_blank"><img style="margin: 10px" src="https://icons.llama.fi/wagmi-sh.jpg" alt="Wagmi" height="50" /></a>  
@@ -80,6 +82,8 @@
 <a  href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img  style="margin: 10px" src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" height="50"/></a>
 <a  href="https://www.prisma.io/" target="_blank"><img  style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png" height="50"/></a>
  <a  href="https://supabase.com/" target="_blank"><img  style="margin: 10px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/299/square_480/supabase-logo-icon_1.png" height="50"/></a>
+   <a  href="https://neon.tech/" target="_blank"><img  style="margin: 10px" src="https://neon.tech/favicon/favicon.png" height="50"/></a>
+
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/vca930ea4481fa25f3cdb030ae8a063116e499d7117ac90e4ee9a28c6c1a44870/firebase/images/touchicon-180.png" alt="FireBase" height="50" /></a>  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
    <a href="https://www.planetscale.com/" target="_blank"><img style="margin: 10px" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iidhf24ewhnqtjgrrfbp" alt="MySQL" height="50" /></a>  
