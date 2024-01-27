@@ -49,7 +49,6 @@
   <a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="Shadcn" height="50" /></a>
     <a href="https://nextui.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4" alt="Nextui" height="50" /></a>
     <a href="https://mantine.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/79146003?v=4&s=400" alt="Mantine" height="50" /></a>
-
   <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="Ant design" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin
 : 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -83,7 +82,6 @@
 <a  href="https://www.prisma.io/" target="_blank"><img  style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png" height="50"/></a>
  <a  href="https://supabase.com/" target="_blank"><img  style="margin: 10px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/299/square_480/supabase-logo-icon_1.png" height="50"/></a>
    <a  href="https://neon.tech/" target="_blank"><img  style="margin: 10px" src="https://neon.tech/favicon/favicon.png" height="50"/></a>
-
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/vca930ea4481fa25f3cdb030ae8a063116e499d7117ac90e4ee9a28c6c1a44870/firebase/images/touchicon-180.png" alt="FireBase" height="50" /></a>  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
    <a href="https://www.planetscale.com/" target="_blank"><img style="margin: 10px" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iidhf24ewhnqtjgrrfbp" alt="MySQL" height="50" /></a>  
