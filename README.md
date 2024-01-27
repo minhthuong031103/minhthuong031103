@@ -23,9 +23,7 @@
 
 <div align="center">
   
-  
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+
 
 
 ## 🌐 Socials:
@@ -119,6 +117,7 @@
    <a href="https://nginx.org/en/" target="_blank"><img style="margin: 10px" src="https://assets.cstatic.io/img/tech/nginx-3.png" alt="Nginx" height="50" /></a>  
      <a href="https://github.com/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github actions" height="50" /></a>  
  <a href="https://www.apollographql.com/docs/react/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo" height="50" /></a>  
+ <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://herve.beraud.io/images/blog/rabbitmq.png" alt="Rabbitmq" height="50" /></a>  
 
 </div>
 
