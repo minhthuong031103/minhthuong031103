@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm a student of **University of information Technology**, specialization in **Software Engineering** (2021-2025)
   
-- 👓  I am a **Full-stack developer**, I can work both on **Web and Mobile development with all Tech stack**.
+- 👓  I am a **Full-stack developer**, I can work both on **Web and Mobile development with all Tech stack**
  
 - 🌱 I have experience in **ReactJS, React Native, NextJS, Angular** in the front end using UI Component library : **TailwindCSS, Styled Component, Shadcn, Ant Design, NextUI, MUI...** and data fetching skill with **SWR, React-query, Redux Saga, tRPC**
   
