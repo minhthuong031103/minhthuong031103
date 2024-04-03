@@ -83,14 +83,18 @@
    <a  href="https://neon.tech/" target="_blank"><img  style="margin: 10px" src="https://neon.tech/favicon/favicon.png" height="50"/></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/vca930ea4481fa25f3cdb030ae8a063116e499d7117ac90e4ee9a28c6c1a44870/firebase/images/touchicon-180.png" alt="FireBase" height="50" /></a>  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+    <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Casandra" height="50" /></a>  
    <a href="https://www.planetscale.com/" target="_blank"><img style="margin: 10px" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iidhf24ewhnqtjgrrfbp" alt="MySQL" height="50" /></a>  
  <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+  <a href="https://gin-gonic.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" height="50" /></a>  
  <a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeOrm" height="50" /></a>
+   <a href="https://gorm.io" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/15127678?v=4" alt="Gorm" height="50" /></a>
    <a href="https://mikro-orm.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/54766168?s=200&v=4" alt="MikroOrm" height="50" /></a>
    <a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" alt="Sequelize" height="50" /></a>
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
     <a href="https://trpc.io" target="_blank"><img style="margin: 10px" src="https://trpc.io/img/logo.svg" alt="tRPC" height="50" /></a>  
+      <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" height="50" /></a>  
   <a  href="https://socket.io" target="_blank"><img  style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" height="50"/></a>
    <a  href="https://soliditylang.org/" target="_blank"><img  style="margin: 10px" src="https://docs.soliditylang.org/tr/latest/_static/logo.svg" height="50"/></a>
 
