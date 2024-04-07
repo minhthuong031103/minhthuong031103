@@ -75,7 +75,8 @@
   <a href="https://go.dev" target="_blank"><img style="margin: 10px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="C#" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/WZlGpOFYvbQb_kZOnlmzNBrFuSFoAfmmxlWm2f2ZVUXb0_Tz7DTZu5nHdT78puF7wBOqzonjOg=s900-c-k-c0x00ffffff-no-rj" alt="Strapi" height="50" /></a>  
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
 <a  href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img  style="margin: 10px" src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" height="50"/></a>
 <a  href="https://www.prisma.io/" target="_blank"><img  style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png" height="50"/></a>
