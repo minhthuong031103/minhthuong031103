@@ -15,7 +15,6 @@
 
 - 🔥 Besides, I have knowledge in **DevOps** with **Linux (Ubuntu), Git, CI/CD, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda, Nginx...** and **Cloud Computing With AWS ( EC2, RDS, S3)**
 
-- 🔭 I'm learning about **Golang, Block-chain** development for job requirements with **Solidity, Web3js, Ethers.js, Wagmi...**
 
 - 📫 How to reach me **minhthuong03112003@gmail.com**.
 
