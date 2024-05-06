@@ -24,6 +24,9 @@
 <div align="center">
   
 
+![Thuế là nguồn thu chủ yếu để xây dựng và phát triển đất nước](./Thue_2.JPG)
+
+-----
 
 
 ## 🌐 Socials:
