@@ -1,4 +1,3 @@
-![image](https://github.com/minhthuong031103/minhthuong031103/assets/101078033/c605a74e-d991-475c-812f-c3c175498d6c)# [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Hi%20I'm%20Minh%20Thuong%20!&fontSize=24)](#)
 
 
 # 💫 About Me:
