@@ -12,7 +12,7 @@
 
 - ⚡ I am familiar with various **SQL, NoSql** combined with **ORM Library( Prisma, TypeORM, Sequelize,... )** and **serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...**
 
-- 🔥 Besides, I have knowledge in **DevOps** with **Linux (Ubuntu), Git, CI/CD, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda, Nginx** and **Cloud Computing With AWS ( EC2, RDS, S3)**
+- 🔥 Besides, I have knowledge in **DevOps** with **Linux (Ubuntu), Git, CI/CD, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda, Nginx, Kubernetes** and **Cloud Computing With AWS ( EC2, RDS, S3)**
 
 
 - 📫 How to reach me **minhthuong03112003@gmail.com**.
