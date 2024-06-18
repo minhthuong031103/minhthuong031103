@@ -60,6 +60,7 @@
   <a href="https://tanstack.com/query/v3/" target="_blank"><img style="margin: 10px" src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" alt="React" height="50" /></a>  
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
     <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png" alt="Module Federation" height="50" /></a>  
+      <a href="https://powersync.com/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/65faec1b01547096cbfafe87/66586f74b72ec61e1fe891ec_powersync-logo-icon.png" alt="Power Sync" height="50" /></a>  
    <a href="https://ethers.org/" target="_blank"><img style="margin: 10px" src="https://moralis.io/wp-content/uploads/2022/12/ethers.js-1024x708.png" alt="Ethers" height="50" /></a>  
      <a href="https://wagmi.sh/" target="_blank"><img style="margin: 10px" src="https://icons.llama.fi/wagmi-sh.jpg" alt="Wagmi" height="50" /></a>  
        <a href="https://thirdweb.com/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/SmD5gHkEKTIZqTrHpiGWodqwnzq9c3nfEW4yf35XIelks_lPq16a-R7UdPlhefgnDPeISSAuiA=s900-c-k-c0x00ffffff-no-rj" alt="Web3" height="50" /></a>  
