@@ -100,7 +100,10 @@
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
     <a href="https://trpc.io" target="_blank"><img style="margin: 10px" src="https://trpc.io/img/logo.svg" alt="tRPC" height="50" /></a>  
       <a href="https://appwrite.io/" target="_blank"><img style="margin: 10px" src="https://seekvectors.com/storage/images/Appwrite-logo.svg" alt="AppWrite" height="50" /></a>  
-    <a href="https://trpc.io" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/b6/3d/38/b63d38cfe09277c60105d8fffb7390da.png" alt="Hashura" height="50" /></a>  
+    <a href="https://hasura.io" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/b6/3d/38/b63d38cfe09277c60105d8fffb7390da.png" alt="Hasura" height="50" /></a>
+      <a href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/108468352?v=4" alt="Drizzle" height="50" /></a>  
+    <a href="https://turso.tech" target="_blank"><img style="margin: 10px" src="https://images.saasworthy.com/turso_45912_logo_1698482949_utu4o.jpg" alt="Turso" height="50" /></a>  
+    <a href="https://upstash.com/" target="_blank"><img style="margin: 10px" src="https://upstash.com/logo/upstash-icon-white-bg.png" alt="Upstash" height="50" /></a>  
       <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" height="50" /></a>  
   <a  href="https://socket.io" target="_blank"><img  style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" height="50"/></a>
    <a  href="https://soliditylang.org/" target="_blank"><img  style="margin: 10px" src="https://docs.soliditylang.org/tr/latest/_static/logo.svg" height="50"/></a>
