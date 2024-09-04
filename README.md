@@ -86,7 +86,7 @@
 <a  href="https://www.prisma.io/" target="_blank"><img  style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png" height="50"/></a>
  <a  href="https://supabase.com/" target="_blank"><img  style="margin: 10px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/299/square_480/supabase-logo-icon_1.png" height="50"/></a>
    <a  href="https://neon.tech/" target="_blank"><img  style="margin: 10px" src="https://neon.tech/favicon/favicon.png" height="50"/></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/vca930ea4481fa25f3cdb030ae8a063116e499d7117ac90e4ee9a28c6c1a44870/firebase/images/touchicon-180.png" alt="FireBase" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/v35e3d347a323c673294794cf0b643760fd66bb529efbd7dccaa22518acef0297/firebase/images/touchicon-180.png" alt="FireBase" height="50" /></a>  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
     <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Casandra" height="50" /></a>  
    <a href="https://www.planetscale.com/" target="_blank"><img style="margin: 10px" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iidhf24ewhnqtjgrrfbp" alt="MySQL" height="50" /></a>  
